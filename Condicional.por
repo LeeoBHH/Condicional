@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-  //Declarações de variáveis.
+  //DeclaraÃ§Ãµes de variÃ¡veis.
    inteiro valor
 
 
@@ -13,9 +13,9 @@ programa {
   
 
   //Calculando.
-  se(valor > 10){ escreva("Maior que 10!")
+  se(valor >= 10){ escreva("Maior que 10!")
   }senao{
-    escreva("Não é maior que 10!") }
+    escreva("NÃ£o Ã© maior que 10!") }
   
   
 
